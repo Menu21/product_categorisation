@@ -59,3 +59,6 @@ This project aims to predict the category of a product typically found on e-comm
 ## Conclusion
 
 This project successfully demonstrates the process of predicting product categories based on descriptions using advanced text classification techniques. The model's performance indicates its potential for real-world applications in e-commerce platforms to enhance product search and categorization.
+
+
+![crisp](https://github.com/user-attachments/assets/daa95aff-1ca6-4be2-8ac4-8c4f450fa351)
